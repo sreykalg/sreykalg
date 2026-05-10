@@ -13,7 +13,7 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 
 ---
 
-# 🛠️ Tech Stack
+<p align="center">Tech Stack </p>
 
 <div align="center">
 
@@ -57,9 +57,8 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 
 </div>
 
----
 
-# 📊 GitHub Analytics
+<p align="center">Analytics </p>
 
 <div align="center">
 
@@ -69,9 +68,8 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 
 </div>
 
----
 
-# 🔥 GitHub Streak
+<p align="center">Streak</p>
 
 <div align="center">
 
@@ -79,9 +77,8 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 
 </div>
 
----
 
-# 📈 Contribution Activity
+<p align="center">Contribution Activity</p>
 
 <div align="center">
 
@@ -89,19 +86,8 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 
 </div>
 
----
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sreykalg&theme=apprentice&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
+<p align="center">Connect With Me </p>
 
 <div align="center">
 
