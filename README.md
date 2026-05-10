@@ -82,17 +82,18 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sreyka-leng-226555315/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="linkedin" />
 </a>
 
 <a href="https://t.me/wei01221" target="_blank">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="45" alt="telegram" />
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="32" alt="telegram" />
 </a>
 
 <a href="mailto:lengsreyka.apple@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="gmail" />
 </a>
-<a href="+855 10 867 566" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+
+<a href="+855 10 867 566" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="32" alt="whatsapp logo" />
 
 </div>
 
