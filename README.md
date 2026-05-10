@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141E30,50:243B55,100:0F2027&text=Sreyka%20Leng&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141E30,50:243B55,100:0F2027&text=Sreyka%20Leng&fontSize=60&fontColor=e8ce6f&fontAlignY=38&animation=twinkling" width="100%" />
 
 <p align="center">Hello, there!🍀 </p>
 <h2>Mobile & Web Developer</h2>
