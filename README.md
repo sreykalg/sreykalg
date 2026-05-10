@@ -1,74 +1,155 @@
-<br clear="both">
+<div align="center">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&reversal=false&text=SreykaLeng&fontSize=60&fontColor=FFFFFF&fontAlign=49&fontAlignY=40&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141E30,50:243B55,100:0F2027&text=Sreyka%20Leng&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
+
+<h2>Flutter Developer • Backend Developer • UI/UX Enthusiast</h2>
+
+<p>
+Passionate about building modern mobile & web applications with clean UI, scalable backend systems, and smooth user experiences.
+</p>
+
 </div>
 
-###
+---
 
-<p align="center">Hello, there! 🍀</p>
+# 🍀 Hello, there!
 
-###
+I'm **Sreyka Leng**, a developer passionate about:
+- 📱 Mobile App Development
+- 🌐 Web Development
+- ⚙️ Backend Systems
+- 🎨 UI/UX Design
+- 🔌 API Integration
+- 🗄️ Database Design
 
-<br clear="both">
+Currently exploring:
+- Spring Boot
+- Advanced Flutter Architecture
+- System Design
+- Cloud & DevOps Fundamentals
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="25" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="25" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="25" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="25" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript" />
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react" />
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42" alt="flutter" />
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="firebase" />
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="42" alt="laravel" />
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" alt="php" />
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql" />
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql" />
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="42" alt="swift" />
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" alt="bootstrap" />
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="42" alt="jira" />
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma" />
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="42" alt="canva" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sreykalg/sreykalg/stats-output/stats.svg" height="165" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/sreykalg/sreykalg/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sreykalg&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/sreykalg/sreykalg/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/sreykalg/sreykalg/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sreykalg&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreykalg&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+# 🔥 GitHub Streak
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sreyka-leng-226555315/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/wei01221" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="+855 10 867 566" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="lengsreyka.apple@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
+<img src="https://streak-stats.demolab.com?user=sreykalg&theme=tokyonight&hide_border=true&border_radius=12" />
+
 </div>
 
-###
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreykalg&theme=tokyo-night&hide_border=true&radius=12" width="95%" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sreykalg&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sreyka-leng-226555315/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin" />
+</a>
+
+<a href="https://t.me/wei01221" target="_blank">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="45" alt="telegram" />
+</a>
+
+<a href="mailto:lengsreyka.apple@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="gmail" />
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sreykalg/sreykalg/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sreykalg&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
