@@ -13,7 +13,7 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 
 ---
 
-<p align="center style="font-size: 32px;">Tech Stack </p>
+<p align="center" style="font-size: 32px;">Tech Stack </p>
 
 <div align="center">
 
@@ -68,16 +68,16 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 </div>
 
 ---
-<p align="center style="font-size: 32px;">Contribution Activity</p>
+<p align="center" style="font-size: 32px;">Contribution Activity</p>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreykalg&theme=noctis-minimus&hide_border=true&radius=12" width="95%" />
 
 </div>
----
 
-<p align="center style="font-size: 32px;">Connect With Me </p>
+---
+<p align="center" style="font-size: 32px;">Connect With Me </p>
 
 <div align="center">
 
