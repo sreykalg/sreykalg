@@ -13,7 +13,7 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 
 ---
 
-<p align="center" style="font-size: 32px;">Tech Stack </p>
+<p align="center" style="font-size: 40px;">Tech Stack </p>
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 
 ---
 
-<p align="center" style="font-size: 32px;">Streak</p>
+<p align="center" style="font-size: 40px;">Streak</p>
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 </div>
 
 ---
-<p align="center" style="font-size: 32px;">Connect With Me </p>
+<p align="center" style="font-size: 40px;">Connect With Me </p>
 
 <div align="center">
 
