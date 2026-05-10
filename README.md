@@ -2,31 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141E30,50:243B55,100:0F2027&text=Sreyka%20Leng&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
 
-<h2>Flutter Developer • Backend Developer • UI/UX Enthusiast</h2>
+<p align="center">Hello, there!🍀 </p>
+<h2>Mobile & Web Developer</h2>
 
 <p>
 Passionate about building modern mobile & web applications with clean UI, scalable backend systems, and smooth user experiences.
 </p>
 
 </div>
-
----
-
-# 🍀 Hello, there!
-
-I'm **Sreyka Leng**, a developer passionate about:
-- 📱 Mobile App Development
-- 🌐 Web Development
-- ⚙️ Backend Systems
-- 🎨 UI/UX Design
-- 🔌 API Integration
-- 🗄️ Database Design
-
-Currently exploring:
-- Spring Boot
-- Advanced Flutter Architecture
-- System Design
-- Cloud & DevOps Fundamentals
 
 ---
 
@@ -80,9 +63,9 @@ Currently exploring:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sreykalg&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sreykalg&show_icons=true&theme=moltack&hide_border=true&border_radius=12" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreykalg&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreykalg&layout=compact&theme=moltack&hide_border=true&border_radius=12" />
 
 </div>
 
@@ -92,7 +75,7 @@ Currently exploring:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sreykalg&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://streak-stats.demolab.com?user=sreykalg&theme=moltack&hide_border=true&border_radius=12" />
 
 </div>
 
@@ -102,7 +85,7 @@ Currently exploring:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreykalg&theme=tokyo-night&hide_border=true&radius=12" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreykalg&theme=noctis-minimus&hide_border=true&radius=12" width="95%" />
 
 </div>
 
@@ -112,7 +95,7 @@ Currently exploring:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sreykalg&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=sreykalg&theme=apprentice&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -136,20 +119,4 @@ Currently exploring:
 
 </div>
 
----
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sreykalg/sreykalg/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sreykalg&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
