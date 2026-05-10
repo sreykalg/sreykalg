@@ -92,6 +92,7 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 <a href="mailto:lengsreyka.apple@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="gmail" />
 </a>
+<a href="+855 10 867 566" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
 
 </div>
 
