@@ -13,7 +13,7 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 
 ---
 
-<p align="center" style="font-size: 40px;">Tech Stack</p>
+<h2>align="center" style="font-size: 40px;">Tech Stack</h2>
 
 <div align="center">
 
