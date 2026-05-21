@@ -13,9 +13,11 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 
 ---
 
-<p align="center" style="font-size: 40px;">Tech Stack </p>
+<p align="center" style="font-size: 40px;">Tech Stack</p>
 
 <div align="center">
+
+<h3> Mobile & Web Development</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript" />
 <img width="14"/>
@@ -47,6 +49,15 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" alt="bootstrap" />
 <img width="14"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma" />
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="42" alt="canva" />
+
+<br><br>
+
+<h3> Testing Tools</h3>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="42" alt="jira" />
 <img width="14"/>
 
@@ -60,11 +71,6 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 <img width="14"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma" />
-<img width="14"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="42" alt="canva" />
 
 </div>
 
