@@ -50,13 +50,13 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="42" alt="jira" />
 <img width="14"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="42" alt="selenium" />
+<img src="https://www.svgrepo.com/show/354321/selenium.svg" height="42" alt="selenium" />
 <img width="14"/>
 
-<img src="https://cdn.simpleicons.org/katalonstudio/7D5AB6" height="42" alt="katalon studio" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Katalon-logo-vector.svg" height="42" alt="katalon studio" />
 <img width="14"/>
 
-<img src="https://cdn.simpleicons.org/playwright/2EAD33" height="42" alt="playwright" />
+<img src="https://playwright.dev/img/playwright-logo.svg" height="42" alt="playwright" />
 <img width="14"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript" />
