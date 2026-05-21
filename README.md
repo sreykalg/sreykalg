@@ -58,16 +58,6 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 </div>
 
 ---
-
-<p align="center" style="font-size: 40px;">Streak</p>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sreykalg&theme=moltack&hide_border=true&border_radius=12" />
-
-</div>
-
----
 <p align="center" style="font-size: 32px;">Contribution Activity</p>
 
 <div align="center">
