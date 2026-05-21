@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=fcedb6&text=Sreyka%20Leng&fontSize=60&fontColor=e8ce6f&fontAlignY=38&animation=twinkling" width="100%" />
 
 <p align="center">Hello, there!🍀 </p>
-<h2>Mobile & Web Developer</h2>
+<h2>Mobile & Web Developer | QA Engineer</h2>
 
 <p>
 Passionate about building modern mobile & web applications with clean UI, scalable backend systems, and smooth user experiences.
