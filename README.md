@@ -75,13 +75,7 @@ Passionate about building modern mobile & web applications with clean UI, scalab
 </div>
 
 ---
-<p align="center" style="font-size: 32px;">Contribution Activity</p>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreykalg&theme=noctis-minimus&hide_border=true&radius=12" width="95%" />
-
-</div>
 
 
 
